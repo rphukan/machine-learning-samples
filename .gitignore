@@ -1,4 +1,5 @@
 *.ipynb_checkpoints
 *.keras
 *.gradio
-*.__pycache__
+__pycache__
+*.svg
